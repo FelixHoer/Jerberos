@@ -17,7 +17,7 @@ To achieve this, both client and service trust in a common "Trusted Thrid Party"
 (Authentication Server and Ticket Granting Server), 
 with which they share their long term secret keys beforehand.
 
-![Kerberos-Principle](https://github.com/FelixHoer/Jerberos/raw/master/principle.scg)
+![Kerberos-Principle](https://github.com/FelixHoer/Jerberos/raw/master/principle.png)
 
 If a client wants to use a service, at first he has to request a 
 Ticket Granting Ticket (TGT) from the Authentication Server (AS).
