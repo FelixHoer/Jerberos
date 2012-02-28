@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tgsConfiguration>
+    <port>7002</port>
+    <tgsKey>TtC1EXPs00ZXUwn3I9wLvQ==</tgsKey>
+    <serverKeys>
+        <entry>
+            <key>bob</key>
+            <value>MzfFRnjkBH3lRwjAxGBxUA==</value>
+        </entry>
+        <entry>
+            <key>peter</key>
+            <value>32BvhnDaLUQK4iUhlggu1Q==</value>
+        </entry>
+    </serverKeys>
+</tgsConfiguration>

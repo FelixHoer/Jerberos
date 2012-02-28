@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asConfiguration>
+    <port>7001</port>
+    <tgsKey>TtC1EXPs00ZXUwn3I9wLvQ==</tgsKey>
+    <clientKeys>
+        <entry>
+            <key>alice</key>
+            <value>HXeCyA8z1CcON8RSJPqx7g==</value>
+        </entry>
+    </clientKeys>
+</asConfiguration>
